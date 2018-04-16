@@ -1,0 +1,1 @@
+* Simples arquivo de descrição onde determino responsável pelo Pull Request e Atribuo Labels *
